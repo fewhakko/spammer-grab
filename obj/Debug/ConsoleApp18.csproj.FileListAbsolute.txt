@@ -1,0 +1,2 @@
+C:\Users\ThePzFew\Desktop\PROJECT\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csprojAssemblyReference.cache
+C:\Users\ThePzFew\Desktop\PROJECT\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
